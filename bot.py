@@ -6,8 +6,8 @@ from telegram.request import HTTPXRequest
 
 # =============== CONFIGURATION ===============
 
-TELEGRAM_TOKEN = "8344196577:AAFWHqALD_0k2wG75TCYFpu9TqjjaakCOtM"  # your bot token
-OPENAI_API_KEY = "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"  # replace with your real OpenAI key
+TELEGRAM_TOKEN = "#"  # your bot token
+OPENAI_API_KEY = "#"  # replace with your real OpenAI key
 
 # Optional proxy (if Telegram is blocked in your country)
 # Comment this line if not needed:
